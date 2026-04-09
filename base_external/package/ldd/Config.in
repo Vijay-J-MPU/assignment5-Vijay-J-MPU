@@ -1,0 +1,6 @@
+
+config BR2_PACKAGE_LDD
+	bool "ldd"
+    help
+    	Contains the starter code needed for the assignment
+
